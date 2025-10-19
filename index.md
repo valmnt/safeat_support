@@ -9,6 +9,7 @@ Safeat vous aide à identifier les ingrédients que vous tolérez le moins, en s
 ## Liens utiles
 
 - [Support](./support.md)  
+- [Politique de confidentialité](./privacy.md)  
 
 ---
 
